@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525170700412">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525171270033">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4266741581" ref="index"/>
+    <file name="index.css" crc="289731105" ref="index"/>
     <file name="master_a-master.css" crc="4271863159" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,7 +19,7 @@
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="form_check.php" crc="3820983874" ref="index"/>
     <file name="form_process.php" crc="3776570906" ref="index"/>
-    <file name="form-u611.php" crc="44282698" ref="index"/>
+    <file name="form-u921.php" crc="4074372467" ref="index"/>
   </folder>
   <folder name="images">
     <file name="banner_website.png" crc="139590911" ref="index">
@@ -44,5 +44,5 @@
     </file>
     <file name="the-way-walkers--ministries-favicon.ico" crc="96740404" ref="index"/>
   </folder>
-  <file name="index.html" crc="4000107723" seo="true" mt="1525170682533" redirect="true"/>
+  <file name="index.html" crc="487257211" seo="true" mt="1525171253631" redirect="true"/>
 </manifest>
