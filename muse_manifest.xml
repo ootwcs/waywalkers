@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="waywalkers.org" resolutions="1x" timestamp="1525164017908">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525167787158">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4109268223" ref="index"/>
+    <file name="index.css" crc="3858381406" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,31 +18,27 @@
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="desert name gif-source.gif" crc="4128943513" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sunrise dawn gif-source.gif" crc="3930032466" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="come on yes gif by george ezra-source.gif" crc="3865056031" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="banner_website.png" crc="139590911" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u351.png" crc="3925958157" ref="index"/>
-    <file name="u351-a.png" crc="507919249" ref="index"/>
-    <file name="u359.png" crc="4287005323" ref="index"/>
-    <file name="u359-a.png" crc="498470438" ref="index"/>
-    <file name="u356.png" crc="386791231" ref="index"/>
-    <file name="u356-a.png" crc="4274931101" ref="index"/>
-    <file name="cactus.jpg" crc="159521841" seo="true" ref="index">
+    <file name="u351.png" crc="3791800178" ref="index"/>
+    <file name="u351-a.png" crc="323123939" ref="index"/>
+    <file name="u359.png" crc="377693951" ref="index"/>
+    <file name="u359-a.png" crc="172657109" ref="index"/>
+    <file name="u356.png" crc="67780970" ref="index"/>
+    <file name="u356-a.png" crc="184642622" ref="index"/>
+    <file name="home-favicon.ico" crc="96740404" ref="index"/>
+    <file name="u460.png" crc="142475466" ref="index"/>
+    <file name="u460-a.png" crc="3835941502" ref="index"/>
+    <file name="u462.png" crc="309252902" ref="index"/>
+    <file name="u462-a.png" crc="4227933206" ref="index"/>
+    <file name="logo_facebook-crop-u446.jpg" crc="450343671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="trees.jpg" crc="3834946433" seo="true" ref="index">
+    <file name="logo_facebook-crop-u456.jpg" crc="450343671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="187183922" seo="true" mt="1525163963330" redirect="true"/>
+  <file name="index.html" crc="405458861" seo="true" mt="1525167721495" redirect="true"/>
 </manifest>

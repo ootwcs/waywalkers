@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://waywalkers.org/index.html</loc>
+    <loc>http://thewaywalkers.org/index.html</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://waywalkers.org/images/desert%20name%20gif-source.gif</image:loc>
+      <image:loc>http://thewaywalkers.org/images/logo_facebook-crop-u446.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waywalkers.org/images/sunrise%20dawn%20gif-source.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waywalkers.org/images/come%20on%20yes%20gif%20by%20george%20ezra-source.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waywalkers.org/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waywalkers.org/images/trees.jpg</image:loc>
+      <image:loc>http://thewaywalkers.org/images/logo_facebook-crop-u456.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
