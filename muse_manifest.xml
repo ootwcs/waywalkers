@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525167787158">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525168270993">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3858381406" ref="index"/>
@@ -40,5 +40,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="405458861" seo="true" mt="1525167721495" redirect="true"/>
+  <file name="index.html" crc="4195662151" seo="true" mt="1525168105282" redirect="true"/>
 </manifest>
