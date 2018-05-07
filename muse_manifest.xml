@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525273355182">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thewaywalkers.org" resolutions="1x" timestamp="1525716948821">
   <folder name="css">
     <file name="site_global.css" crc="3950294423"/>
-    <file name="index.css" crc="497627999" ref="index"/>
+    <file name="index.css" crc="3960714695" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -35,9 +35,6 @@
     <file name="u460-a.png" crc="3835941502" ref="index"/>
     <file name="u462.png" crc="309252902" ref="index"/>
     <file name="u462-a.png" crc="4227933206" ref="index"/>
-    <file name="logo_facebook-crop-u446.jpg" crc="450343671" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo_facebook-crop-u456.jpg" crc="450343671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -45,6 +42,11 @@
     <file name="logo.jpg" crc="3870011157" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo_facebook-crop-u1274.jpg" crc="450343671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1246.png" crc="4115312340" ref="index"/>
+    <file name="u1246-a.png" crc="171423928" ref="index"/>
   </folder>
-  <file name="index.html" crc="231528148" seo="true" mt="1525273318862" redirect="true"/>
+  <file name="index.html" crc="4289950715" seo="true" mt="1525716731713" redirect="true"/>
 </manifest>
